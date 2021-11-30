@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  FILE_PATTERN: "page/*.html"
+  FILE_PATTERN: "{page,css}/*.{html,css}"
 
 jobs:
   lint:
