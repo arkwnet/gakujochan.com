@@ -1,3 +1,6 @@
 {
-	"name": "gakujochan.com"
+	"name": "gakujochan.com",
+	"devDependencies": {
+		"prettier": "^2.5.0"
+	}
 }
