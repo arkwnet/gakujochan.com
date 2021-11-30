@@ -3,7 +3,7 @@ name: Prettier
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   FILE_PATTERN: "page/*.html"
